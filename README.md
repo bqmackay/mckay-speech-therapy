@@ -1,6 +1,6 @@
-# McKay Speech Therapy Website
+# Mackay Speech Therapy Website
 
-Professional speech therapy website for Erica McKay, built with Next.js 14 and Tailwind CSS.
+Professional speech therapy website for Erica Mackay, built with Next.js 14 and Tailwind CSS.
 
 ## Features
 
@@ -8,7 +8,7 @@ Professional speech therapy website for Erica McKay, built with Next.js 14 and T
 ✅ **Services Page** - Two service offerings:
   - Speech Therapy Sessions ($50/30 min) for ages 0-18
   - Comprehensive Testing ($150)
-✅ **About Page** - Professional bio for Erica McKay
+✅ **About Page** - Professional bio for Erica Mackay
 ✅ **Contact Form** - Stores submissions to JSON database
 ✅ **Admin Dashboard** - View all contact form submissions at `/admin`
 ✅ **Fully Responsive** - Mobile-friendly design
@@ -62,7 +62,7 @@ vercel --prod
 
 - **/** - Home page
 - **/services** - Service listings with pricing
-- **/about** - About Erica McKay
+- **/about** - About Erica Mackay
 - **/contact** - Contact form
 - **/admin** - View form submissions (unprotected - add auth if needed)
 
@@ -96,7 +96,7 @@ Replace the emoji placeholder in `/app/about/page.tsx` with an image:
 ```tsx
 <img 
   src="/images/erica.jpg" 
-  alt="Erica McKay" 
+  alt="Erica Mackay" 
   className="rounded-lg w-full"
 />
 ```

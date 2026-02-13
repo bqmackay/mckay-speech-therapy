@@ -3,7 +3,7 @@ export default function About() {
     <div className="min-h-screen bg-gray-50">
       <div className="container mx-auto px-4 py-16">
         <div className="max-w-4xl mx-auto">
-          <h1 className="text-4xl font-bold text-gray-900 mb-8 text-center">About Erica McKay</h1>
+          <h1 className="text-4xl font-bold text-gray-900 mb-8 text-center">About Erica Mackay</h1>
           
           <div className="bg-white rounded-xl shadow-lg p-8 mb-8">
             <div className="grid md:grid-cols-3 gap-8">
@@ -15,9 +15,9 @@ export default function About() {
               </div>
               
               <div className="md:col-span-2">
-                <h2 className="text-2xl font-bold mb-4 text-gray-900">Erica McKay, M.S., CCC-SLP</h2>
+                <h2 className="text-2xl font-bold mb-4 text-gray-900">Erica Mackay, M.S., CCC-SLP</h2>
                 <p className="text-gray-700 mb-4">
-                  Erica McKay is a dedicated speech-language pathologist with a passion for helping children 
+                  Erica Mackay is a dedicated speech-language pathologist with a passion for helping children 
                   develop their communication skills. With years of experience working with children ages 0-18, 
                   Erica brings both expertise and compassion to every therapy session.
                 </p>
